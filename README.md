@@ -14,3 +14,10 @@ HOW TO USE:
 
 
 Using these launch options will ensure that every time WAW is loaded, the mod will load alongside with it without having to manually do it.
+
+
+WHAT IS THIS?:
+
+I am working on a very simple and user friendly map launcher for ALL Call of Duty Zombies games, from WAW to Infinite Warfare etc etc etc, this is to ensure that in the launcher we can show the user what their highest round on each map is, absolutely insane work for such little payoff.
+
+Feel free to use this in any project and if you do so please credit me - Bedylsebub :)
